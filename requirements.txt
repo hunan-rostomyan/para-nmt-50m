@@ -1,0 +1,2 @@
+Lasagne==0.1
+Theano==0.7.0
