@@ -1,3 +1,16 @@
+# Getting started
+
+The original readme is below. Here I describe how to get started with experimentation using this slightly-modified setup.
+
+- install docker. Build the container with `./build`
+- run the container and attach with `./enter`
+- install the requirements with `pip install -r requirements.txt`
+
+Run some demos, e.g.:
+
+- `bash demo.sh wordavg`
+
+
 # para-nmt-50m
 
 Code to train models from "Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations".
